@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Hello {
+  color: blueviolet;
+}
+
+.Msg {
+  color: rgb(151, 42, 165);
+  font-size: 20px;
+}
+
+.Animal {
+  width: 800px;
+}
